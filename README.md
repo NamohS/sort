@@ -1,4 +1,4 @@
-# Sorting
+# [Sorting](sort.cpp)
 
 This C++ program demonstrates the Bubble Sort algorithm. It takes user input to create an array of integers and sorts the array in ascending order using Bubble Sort. The program is a command-line application, making it easy to use for sorting simple lists of numbers.
 
